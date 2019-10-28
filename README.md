@@ -1,6 +1,6 @@
 # skeptycal-github
 
-[![Build Status](https://travis-ci.com/skeptycal/skeptycal.github.io.svg?branch=master)](https://travis-ci.com/skeptycal/skeptycal.github.io)
+[![Build Status](https://travis-ci.com/skeptycal/skeptycal.github.io.svg?branch=master)](https://travis-ci.com/skeptycal/skeptycal.github.io) [![Greenkeeper badge](https://badges.greenkeeper.io/skeptycal/skeptycal-github.svg)](https://greenkeeper.io/)
 
 > skeptycal blog
 
